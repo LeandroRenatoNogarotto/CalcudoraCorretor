@@ -12,8 +12,8 @@ Uma calculadora web simples e funcional desenvolvida com HTML, CSS e JavaScript.
 ## 🚀 Como usar
 
 1. Clone este repositório
-2. Abra o arquivo `index2.html` no seu navegador
-3. Comece a calcular!
+2. Abra o arquivo `index.html` no seu navegador
+4. Comece a calcular!
 
 ## 🛠️ Tecnologias utilizadas
 
